@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           http://www.springframework.org/schema/beans/spring-beans.xsd
+                           http://www.springframework.org/schema/context
+                           http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <!-- Beans for task1 -->
+    <bean id="databaseOperations" class="com.example.DatabaseOperations"/>
+    <bean id="draw2dShape" class="com.example.Draw2d"/>
+    <bean id="draw3dShape" class="com.example.Draw3d"/>
+
+    <bean id="circle" class="com.example.Circle" scope="singleton">
+        <constructor-arg ref="draw2dShape"/>
+        <constructor-arg ref="draw3dShape"/>
+    </bean>
+
+    <bean id="square" class="com.example.Square" scope="prototype">
+        <property name="draw2d" ref="draw2dShape"/>
+        <property name="draw3d" ref="draw3dShape"/>
+    </bean>
+
+
+
+    <bean id="init-distroy" class="com.example.DatabaseOperations" init-method="connectToDatabase" destroy-method="disconnectFromDatabase">
+
+    </bean>
+    <!-- Properties file -->
+    <context:property-placeholder location="application.properties"/>
+
+
+</beans>
