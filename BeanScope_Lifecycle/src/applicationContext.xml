@@ -7,8 +7,12 @@
                            http://www.springframework.org/schema/context
                            http://www.springframework.org/schema/context/spring-context.xsd">
 
-    <!-- Beans for task1 -->
-    <bean id="databaseOperations" class="com.example.DatabaseOperations"/>
+
+    <bean id="databaseOperations"
+          class="com.example.DatabaseOperations"
+          init-method="connectToDatabase"
+          destroy-method="disconnectFromDatabase" />
+
     <bean id="draw2dShape" class="com.example.Draw2d"/>
     <bean id="draw3dShape" class="com.example.Draw3d"/>
 
@@ -23,12 +27,6 @@
     </bean>
 
 
-
-    <bean id="init-distroy" class="com.example.DatabaseOperations" init-method="connectToDatabase" destroy-method="disconnectFromDatabase">
-
-    </bean>
-    <!-- Properties file -->
     <context:property-placeholder location="application.properties"/>
-
 
 </beans>
