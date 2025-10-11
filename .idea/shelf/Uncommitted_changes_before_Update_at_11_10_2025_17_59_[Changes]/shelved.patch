@@ -1,0 +1,648 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"d60db798-7bdd-4a67-b3ed-2e11f2bdd2aa\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/.gitignore\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/.idea/.gitignore\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/.idea/aws.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/.idea/libraries/Java_EE_6_Java_EE_6.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/.idea/libraries/libs.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/.idea/misc.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/.idea/modules.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/.idea/vcs.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/.smarttomcat/SpringMVC/conf/catalina.policy\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/.smarttomcat/SpringMVC/conf/catalina.properties\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/.smarttomcat/SpringMVC/conf/context.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/.smarttomcat/SpringMVC/conf/jaspic-providers.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/.smarttomcat/SpringMVC/conf/jaspic-providers.xsd\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/.smarttomcat/SpringMVC/conf/logging.properties\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/.smarttomcat/SpringMVC/conf/server.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/.smarttomcat/SpringMVC/conf/tomcat-users.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/.smarttomcat/SpringMVC/conf/tomcat-users.xsd\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/.smarttomcat/SpringMVC/conf/web.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/SpringMVC.iml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/lib/javax.ejb.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/lib/javax.jms.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/lib/javax.persistence.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/lib/javax.resource.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/lib/javax.servlet.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/lib/javax.servlet.jsp.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/lib/javax.servlet.jsp.jstl.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/lib/javax.transaction.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/javax.annotation-api-1.3.2.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-aop-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-aop-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-aop-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-aspects-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-aspects-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-aspects-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-beans-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-beans-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-beans-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-context-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-context-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-context-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-context-indexer-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-context-indexer-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-context-indexer-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-context-support-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-context-support-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-context-support-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-core-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-core-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-core-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-expression-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-expression-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-expression-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-instrument-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-instrument-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-instrument-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-jcl-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-jcl-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-jcl-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-jdbc-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-jdbc-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-jdbc-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-jms-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-jms-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-jms-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-messaging-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-messaging-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-messaging-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-orm-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-orm-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-orm-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-oxm-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-oxm-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-oxm-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-r2dbc-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-r2dbc-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-r2dbc-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-test-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-test-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-test-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-tx-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-tx-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-tx-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-web-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-web-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-webflux-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-webflux-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-webflux-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-webmvc-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-webmvc-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-webmvc-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-websocket-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-websocket-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/libs/libs/spring-websocket-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/src/main/com/myApp/controller/HomeController.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/src/main/resources/css/bootstrap.min.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/src/main/webapp/WEB-INF/application-context.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/src/main/webapp/WEB-INF/view/formPage.jsp\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/src/main/webapp/WEB-INF/view/resultPage.jsp\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/AgeCalculator/src/main/webapp/WEB-INF/web.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/BeanScope_Lifecycle/BeanScope_Lifecycle.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/BeanScope_Lifecycle/BeanScope_Lifecycle.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/DI/DI.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/DI/DI.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/javax.annotation-api-1.3.2.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/javax.annotation-api-1.3.2.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-aop-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-aop-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-aop-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-aspects-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-aspects-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-aspects-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-beans-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-beans-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-beans-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-context-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-context-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-context-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-context-indexer-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-context-indexer-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-context-indexer-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-context-support-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-context-support-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-context-support-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-core-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-core-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-core-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-expression-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-expression-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-expression-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-instrument-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-instrument-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-instrument-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-jcl-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-jcl-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-jcl-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-jdbc-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-jdbc-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-jdbc-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-jms-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-jms-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-jms-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-messaging-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-messaging-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-messaging-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-orm-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-orm-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-orm-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-oxm-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-oxm-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-oxm-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-r2dbc-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-r2dbc-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-r2dbc-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-test-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-test-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-test-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-tx-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-tx-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-tx-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-web-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-web-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-webflux-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-webflux-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-webflux-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-webmvc-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-webmvc-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-webmvc-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-websocket-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-websocket-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/libs/spring-websocket-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-aop-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-aop-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-aop-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-aspects-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-aspects-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-aspects-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-beans-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-beans-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-beans-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-context-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-context-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-context-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-context-indexer-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-context-indexer-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-context-indexer-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-context-support-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-context-support-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-context-support-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-core-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-core-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-expression-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-expression-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-expression-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-instrument-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-instrument-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-instrument-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-jcl-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-jcl-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-jcl-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-jdbc-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-jdbc-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-jdbc-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-jms-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-jms-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-jms-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-messaging-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-messaging-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-messaging-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-orm-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-orm-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-orm-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-oxm-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-oxm-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-oxm-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-r2dbc-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-r2dbc-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-r2dbc-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-test-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-test-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-test-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-tx-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-tx-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-tx-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-web-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-web-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-webflux-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-webflux-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-webflux-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-webmvc-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-webmvc-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-webmvc-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-websocket-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-websocket-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/libs/spring-websocket-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/src/main/com/myApp/controller/HomeController.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/src/main/resources/css/bootstrap.min.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/application-context.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/view/formPage.jsp\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/view/resultPage.jsp\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/web.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/.gitignore\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/.idea/.gitignore\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/.idea/aws.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/.idea/compiler.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/.idea/libraries/Java_EE_6_Java_EE_6.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/.idea/libraries/lib.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/.idea/libraries/libs.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/.idea/misc.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/.idea/modules.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/.idea/vcs.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/.smarttomcat/UserProfileSystem/conf/catalina.policy\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/.smarttomcat/UserProfileSystem/conf/catalina.properties\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/.smarttomcat/UserProfileSystem/conf/context.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/.smarttomcat/UserProfileSystem/conf/jaspic-providers.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/.smarttomcat/UserProfileSystem/conf/jaspic-providers.xsd\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/.smarttomcat/UserProfileSystem/conf/logging.properties\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/.smarttomcat/UserProfileSystem/conf/server.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/.smarttomcat/UserProfileSystem/conf/tomcat-users.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/.smarttomcat/UserProfileSystem/conf/tomcat-users.xsd\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/.smarttomcat/UserProfileSystem/conf/web.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/UserProfileSystem.iml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/lib/javax.ejb.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/lib/javax.jms.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/lib/javax.persistence.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/lib/javax.resource.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/lib/javax.servlet.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/lib/javax.servlet.jsp.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/lib/javax.servlet.jsp.jstl.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/lib/javax.transaction.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/javax.annotation-api-1.3.2.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/mysql-connector-j-9.3.0.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-aop-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-aop-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-aop-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-aspects-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-aspects-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-aspects-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-beans-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-beans-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-beans-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-context-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-context-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-context-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-context-indexer-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-context-indexer-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-context-indexer-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-context-support-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-context-support-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-context-support-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-core-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-core-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-core-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-expression-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-expression-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-expression-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-instrument-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-instrument-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-instrument-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-jcl-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-jcl-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-jcl-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-jdbc-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-jdbc-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-jdbc-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-jms-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-jms-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-jms-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-messaging-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-messaging-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-messaging-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-orm-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-orm-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-orm-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-oxm-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-oxm-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-oxm-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-r2dbc-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-r2dbc-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-r2dbc-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-test-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-test-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-test-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-tx-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-tx-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-tx-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-web-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-web-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-webflux-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-webflux-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-webflux-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-webmvc-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-webmvc-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-webmvc-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-websocket-5.3.9-javadoc.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-websocket-5.3.9-sources.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-websocket-5.3.9.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/src/application.properties\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/src/main/com/myApp/config/AppConfig.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/src/main/com/myApp/config/DatabaseOperations.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/src/main/com/myApp/controller/UserController.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/src/main/com/myApp/dao/UserDao.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/src/main/com/myApp/model/User.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/src/main/com/myApp/service/UserService.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/src/main/resources/css/bootstrap.min.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/src/main/resources/css/style.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/src/main/webapp/WEB-INF/application-context.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/src/main/webapp/WEB-INF/lib/mysql-connector-j-9.3.0.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/src/main/webapp/WEB-INF/view/formPage.jsp\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/src/main/webapp/WEB-INF/view/resultPage.jsp\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/src/main/webapp/WEB-INF/web.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UserProfileSystem/src/main/webapp/resources/css/style.css\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;RahmaIsmaill&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/RahmaIsmaill/Bootcamp_tasks.git&quot;,\r\n    &quot;accountId&quot;: &quot;611951a9-dfea-41ae-922f-941204761157&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 5\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"33mt5O4lN8whABE98BLEi5ZfYOH\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\r\n    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/ThrOw/OneDrive - Computer and Information Technology (Menofia University)/Desktop/BootCamp_Tasks&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;,\r\n    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RunManager\">\r\n    <configuration default=\"true\" type=\"JetRunConfigurationType\">\r\n      <module name=\"BootCamp_Tasks\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"KotlinStandaloneScriptRunConfigurationType\">\r\n      <module name=\"BootCamp_Tasks\" />\r\n      <option name=\"filePath\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131\" />\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"d60db798-7bdd-4a67-b3ed-2e11f2bdd2aa\" name=\"Changes\" comment=\"\" />\r\n      <created>1759933893878</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1759933893878</updated>\r\n      <workItem from=\"1759933896749\" duration=\"237000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 418c5b0c462ef20ee7baf66bdd3b4bae04fd5687)
++++ b/.idea/workspace.xml	(date 1760192590504)
+@@ -1,356 +1,11 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="AutoImportSettings">
++    <option name="autoReloadType" value="SELECTIVE" />
++  </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="d60db798-7bdd-4a67-b3ed-2e11f2bdd2aa" name="Changes" comment="">
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/.idea/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/.idea/aws.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/.idea/libraries/libs.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/.idea/misc.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/.idea/modules.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/.idea/vcs.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/.smarttomcat/SpringMVC/conf/catalina.policy" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/.smarttomcat/SpringMVC/conf/catalina.properties" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/.smarttomcat/SpringMVC/conf/context.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/.smarttomcat/SpringMVC/conf/jaspic-providers.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/.smarttomcat/SpringMVC/conf/jaspic-providers.xsd" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/.smarttomcat/SpringMVC/conf/logging.properties" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/.smarttomcat/SpringMVC/conf/server.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/.smarttomcat/SpringMVC/conf/tomcat-users.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/.smarttomcat/SpringMVC/conf/tomcat-users.xsd" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/.smarttomcat/SpringMVC/conf/web.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/SpringMVC.iml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/lib/javax.ejb.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/lib/javax.jms.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/lib/javax.persistence.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/lib/javax.resource.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/lib/javax.servlet.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/lib/javax.servlet.jsp.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/lib/javax.transaction.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/javax.annotation-api-1.3.2.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-aop-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-aop-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-aop-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-aspects-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-aspects-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-aspects-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-beans-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-beans-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-beans-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-context-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-context-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-context-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-context-indexer-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-context-indexer-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-context-indexer-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-context-support-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-context-support-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-context-support-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-core-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-core-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-core-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-expression-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-expression-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-expression-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-instrument-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-instrument-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-instrument-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-jcl-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-jcl-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-jcl-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-jdbc-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-jdbc-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-jdbc-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-jms-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-jms-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-jms-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-messaging-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-messaging-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-messaging-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-orm-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-orm-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-orm-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-oxm-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-oxm-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-oxm-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-r2dbc-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-r2dbc-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-r2dbc-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-test-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-test-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-test-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-tx-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-tx-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-tx-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-web-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-web-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-webflux-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-webflux-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-webflux-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-webmvc-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-webmvc-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-webmvc-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-websocket-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-websocket-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/libs/libs/spring-websocket-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/src/main/com/myApp/controller/HomeController.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/src/main/resources/css/bootstrap.min.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/src/main/webapp/WEB-INF/application-context.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/src/main/webapp/WEB-INF/view/formPage.jsp" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/src/main/webapp/WEB-INF/view/resultPage.jsp" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/AgeCalculator/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/BeanScope_Lifecycle/BeanScope_Lifecycle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BeanScope_Lifecycle/BeanScope_Lifecycle.iml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/DI/DI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DI/DI.iml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/javax.annotation-api-1.3.2.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/javax.annotation-api-1.3.2.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-aop-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-aop-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-aop-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-aspects-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-aspects-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-aspects-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-beans-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-beans-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-beans-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-context-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-context-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-context-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-context-indexer-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-context-indexer-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-context-indexer-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-context-support-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-context-support-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-context-support-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-core-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-core-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-core-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-expression-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-expression-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-expression-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-instrument-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-instrument-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-instrument-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-jcl-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-jcl-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-jcl-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-jdbc-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-jdbc-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-jdbc-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-jms-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-jms-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-jms-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-messaging-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-messaging-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-messaging-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-orm-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-orm-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-orm-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-oxm-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-oxm-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-oxm-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-r2dbc-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-r2dbc-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-r2dbc-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-test-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-test-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-test-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-tx-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-tx-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-tx-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-web-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-web-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-webflux-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-webflux-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-webflux-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-webmvc-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-webmvc-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-webmvc-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-websocket-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-websocket-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/libs/spring-websocket-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-aop-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-aop-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-aop-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-aspects-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-aspects-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-aspects-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-beans-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-beans-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-beans-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-context-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-context-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-context-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-context-indexer-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-context-indexer-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-context-indexer-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-context-support-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-context-support-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-context-support-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-core-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-core-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-expression-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-expression-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-expression-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-instrument-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-instrument-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-instrument-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-jcl-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-jcl-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-jcl-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-jdbc-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-jdbc-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-jdbc-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-jms-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-jms-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-jms-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-messaging-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-messaging-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-messaging-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-orm-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-orm-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-orm-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-oxm-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-oxm-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-oxm-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-r2dbc-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-r2dbc-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-r2dbc-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-test-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-test-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-test-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-tx-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-tx-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-tx-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-web-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-web-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-webflux-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-webflux-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-webflux-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-webmvc-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-webmvc-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-webmvc-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-websocket-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-websocket-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/libs/spring-websocket-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/com/myApp/controller/HomeController.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/resources/css/bootstrap.min.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/application-context.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/view/formPage.jsp" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/view/resultPage.jsp" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/.idea/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/.idea/aws.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/.idea/compiler.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/.idea/libraries/lib.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/.idea/libraries/libs.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/.idea/misc.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/.idea/modules.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/.idea/vcs.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/.smarttomcat/UserProfileSystem/conf/catalina.policy" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/.smarttomcat/UserProfileSystem/conf/catalina.properties" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/.smarttomcat/UserProfileSystem/conf/context.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/.smarttomcat/UserProfileSystem/conf/jaspic-providers.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/.smarttomcat/UserProfileSystem/conf/jaspic-providers.xsd" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/.smarttomcat/UserProfileSystem/conf/logging.properties" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/.smarttomcat/UserProfileSystem/conf/server.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/.smarttomcat/UserProfileSystem/conf/tomcat-users.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/.smarttomcat/UserProfileSystem/conf/tomcat-users.xsd" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/.smarttomcat/UserProfileSystem/conf/web.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/UserProfileSystem.iml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/lib/javax.ejb.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/lib/javax.jms.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/lib/javax.persistence.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/lib/javax.resource.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/lib/javax.servlet.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/lib/javax.servlet.jsp.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/lib/javax.transaction.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/javax.annotation-api-1.3.2.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/mysql-connector-j-9.3.0.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-aop-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-aop-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-aop-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-aspects-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-aspects-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-aspects-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-beans-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-beans-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-beans-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-context-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-context-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-context-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-context-indexer-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-context-indexer-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-context-indexer-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-context-support-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-context-support-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-context-support-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-core-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-core-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-core-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-expression-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-expression-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-expression-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-instrument-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-instrument-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-instrument-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-jcl-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-jcl-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-jcl-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-jdbc-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-jdbc-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-jdbc-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-jms-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-jms-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-jms-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-messaging-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-messaging-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-messaging-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-orm-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-orm-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-orm-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-oxm-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-oxm-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-oxm-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-r2dbc-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-r2dbc-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-r2dbc-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-test-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-test-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-test-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-tx-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-tx-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-tx-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-web-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-web-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-webflux-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-webflux-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-webflux-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-webmvc-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-webmvc-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-webmvc-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-websocket-5.3.9-javadoc.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-websocket-5.3.9-sources.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/libs/libs/spring-websocket-5.3.9.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/src/application.properties" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/src/main/com/myApp/config/AppConfig.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/src/main/com/myApp/config/DatabaseOperations.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/src/main/com/myApp/controller/UserController.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/src/main/com/myApp/dao/UserDao.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/src/main/com/myApp/model/User.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/src/main/com/myApp/service/UserService.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/src/main/resources/css/bootstrap.min.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/src/main/resources/css/style.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/src/main/webapp/WEB-INF/application-context.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/src/main/webapp/WEB-INF/lib/mysql-connector-j-9.3.0.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/src/main/webapp/WEB-INF/view/formPage.jsp" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/src/main/webapp/WEB-INF/view/resultPage.jsp" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UserProfileSystem/src/main/webapp/resources/css/style.css" beforeDir="false" />
++    <list default="true" id="d60db798-7bdd-4a67-b3ed-2e11f2bdd2aa" name="Changes" comment="userProfileSystem">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -358,6 +13,11 @@
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="userProfileSystem" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="GitHubPullRequestSearchHistory">{
+@@ -380,19 +40,21 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ThrOw/OneDrive - Computer and Information Technology (Menofia University)/Desktop/BootCamp_Tasks&quot;,
+-    &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;,
+-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "ModuleVcsDetector.initialDetectionPerformed": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "RunOnceActivity.git.unshallow": "true",
++    "git-widget-placeholder": "main",
++    "junie.onboarding.icon.badge.shown": "true",
++    "kotlin-language-version-configured": "true",
++    "last_opened_file_path": "C:/Users/ThrOw/OneDrive - Computer and Information Technology (Menofia University)/Desktop/BootCamp_Tasks",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable",
++    "to.speed.mode.migration.done": "true",
++    "vue.rearranger.settings.migration": "true"
+   }
+-}</component>
++}]]></component>
+   <component name="RunManager">
+     <configuration default="true" type="JetRunConfigurationType">
+       <module name="BootCamp_Tasks" />
+@@ -422,7 +84,24 @@
+       <option name="presentableId" value="Default" />
+       <updated>1759933893878</updated>
+       <workItem from="1759933896749" duration="237000" />
++      <workItem from="1760192485698" duration="87000" />
+     </task>
++    <task id="LOCAL-00001" summary="userProfileSystem">
++      <option name="closed" value="true" />
++      <created>1759935397795</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1759935397795</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="3" />
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="userProfileSystem" />
++    <option name="LAST_COMMIT_MESSAGE" value="userProfileSystem" />
++  </component>
+ </project>
+\ No newline at end of file
+Index: UserProfileSystem/.idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/UserProfileSystem/.idea/modules.xml b/UserProfileSystem/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1760192875043)
++++ b/UserProfileSystem/.idea/modules.xml	(date 1760192875043)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/UserProfileSystem.iml" filepath="$PROJECT_DIR$/.idea/UserProfileSystem.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: UserProfileSystem/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/UserProfileSystem/.idea/.gitignore b/UserProfileSystem/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1760192857696)
++++ b/UserProfileSystem/.idea/.gitignore	(date 1760192857696)
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Editor-based HTTP Client requests
++/httpRequests/
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
+Index: UserProfileSystem/.idea/libraries/lib.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/UserProfileSystem/.idea/libraries/lib.xml b/UserProfileSystem/.idea/libraries/lib.xml
+new file mode 100644
+--- /dev/null	(date 1760192875060)
++++ b/UserProfileSystem/.idea/libraries/lib.xml	(date 1760192875060)
+@@ -0,0 +1,16 @@
++<component name="libraryTable">
++  <library name="lib">
++    <CLASSES>
++      <root url="jar://$PROJECT_DIR$/lib/javax.resource.jar!/" />
++      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar!/" />
++      <root url="jar://$PROJECT_DIR$/lib/javax.ejb.jar!/" />
++      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jsp.jar!/" />
++      <root url="jar://$PROJECT_DIR$/lib/javax.jms.jar!/" />
++      <root url="jar://$PROJECT_DIR$/lib/javax.persistence.jar!/" />
++      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jar!/" />
++      <root url="jar://$PROJECT_DIR$/lib/javax.transaction.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES />
++  </library>
++</component>
+\ No newline at end of file
+Index: UserProfileSystem/.idea/libraries/libs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/UserProfileSystem/.idea/libraries/libs.xml b/UserProfileSystem/.idea/libraries/libs.xml
+new file mode 100644
+--- /dev/null	(date 1760192875066)
++++ b/UserProfileSystem/.idea/libraries/libs.xml	(date 1760192875066)
+@@ -0,0 +1,75 @@
++<component name="libraryTable">
++  <library name="libs">
++    <CLASSES>
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-oxm-5.3.9.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-jdbc-5.3.9-sources.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-oxm-5.3.9-javadoc.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-beans-5.3.9.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/javax.annotation-api-1.3.2.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-context-support-5.3.9.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-expression-5.3.9.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-aspects-5.3.9.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-r2dbc-5.3.9.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-test-5.3.9-sources.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-aspects-5.3.9-sources.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-jcl-5.3.9.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-r2dbc-5.3.9-javadoc.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-tx-5.3.9-javadoc.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-aop-5.3.9.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-context-indexer-5.3.9-javadoc.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-instrument-5.3.9.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-instrument-5.3.9-sources.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-jcl-5.3.9-sources.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-aop-5.3.9-javadoc.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-core-5.3.9-javadoc.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-orm-5.3.9.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-websocket-5.3.9-sources.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-jdbc-5.3.9.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-jms-5.3.9-javadoc.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-webmvc-5.3.9-javadoc.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-websocket-5.3.9.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-jcl-5.3.9-javadoc.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-aop-5.3.9-sources.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-context-support-5.3.9-javadoc.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-jms-5.3.9-sources.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-websocket-5.3.9-javadoc.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-context-5.3.9-javadoc.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-expression-5.3.9-javadoc.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-orm-5.3.9-javadoc.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-context-5.3.9.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-test-5.3.9.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/mysql-connector-j-9.3.0.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-expression-5.3.9-sources.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-jms-5.3.9.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-webmvc-5.3.9.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-aspects-5.3.9-javadoc.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-web-5.3.9-javadoc.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-core-5.3.9-sources.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-tx-5.3.9-sources.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-core-5.3.9.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-context-support-5.3.9-sources.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-context-5.3.9-sources.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-orm-5.3.9-sources.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-messaging-5.3.9.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-context-indexer-5.3.9-sources.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-oxm-5.3.9-sources.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-test-5.3.9-javadoc.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-tx-5.3.9.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-webmvc-5.3.9-sources.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-webflux-5.3.9-javadoc.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-context-indexer-5.3.9.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-jdbc-5.3.9-javadoc.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-webflux-5.3.9-sources.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-webflux-5.3.9.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-instrument-5.3.9-javadoc.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-web-5.3.9.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-messaging-5.3.9-javadoc.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-r2dbc-5.3.9-sources.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-beans-5.3.9-sources.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-beans-5.3.9-javadoc.jar!/" />
++      <root url="jar://$PROJECT_DIR$/libs/libs/spring-messaging-5.3.9-sources.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES />
++  </library>
++</component>
+\ No newline at end of file
+Index: UserProfileSystem/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/UserProfileSystem/.idea/misc.xml b/UserProfileSystem/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1760192875074)
++++ b/UserProfileSystem/.idea/misc.xml	(date 1760192875074)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_25" default="true" project-jdk-name="openjdk-25" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: UserProfileSystem/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/UserProfileSystem/.idea/vcs.xml b/UserProfileSystem/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1760192875095)
++++ b/UserProfileSystem/.idea/vcs.xml	(date 1760192875095)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: UserProfileSystem/.idea/libraries/mysql_connector_j_9_3_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/UserProfileSystem/.idea/libraries/mysql_connector_j_9_3_0.xml b/UserProfileSystem/.idea/libraries/mysql_connector_j_9_3_0.xml
+new file mode 100644
+--- /dev/null	(date 1760192875067)
++++ b/UserProfileSystem/.idea/libraries/mysql_connector_j_9_3_0.xml	(date 1760192875067)
+@@ -0,0 +1,9 @@
++<component name="libraryTable">
++  <library name="mysql-connector-j-9.3.0">
++    <CLASSES>
++      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/mysql-connector-j-9.3.0.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES />
++  </library>
++</component>
+\ No newline at end of file
