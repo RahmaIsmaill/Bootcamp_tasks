@@ -1,0 +1,308 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]" date="1760195318299" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 11/10/2025 18:06 [Changes]" />
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-tx-5.3.9.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-tx-5.3.9.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-test-5.3.9.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-test-5.3.9.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-expression-5.3.9-sources.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-expression-5.3.9-sources.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-tx-5.3.9-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-tx-5.3.9-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="lib/javax.ejb.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/javax.ejb.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-beans-5.3.9.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-beans-5.3.9.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="lib/javax.transaction.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/javax.transaction.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-aspects-5.3.9.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-aspects-5.3.9.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-aop-5.3.9.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-aop-5.3.9.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-r2dbc-5.3.9-sources.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-r2dbc-5.3.9-sources.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-core-5.3.9-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-core-5.3.9-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-instrument-5.3.9.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-instrument-5.3.9.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-webmvc-5.3.9.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-webmvc-5.3.9.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-websocket-5.3.9-sources.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-websocket-5.3.9-sources.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/javax.annotation-api-1.3.2.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/javax.annotation-api-1.3.2.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-aspects-5.3.9-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-aspects-5.3.9-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-oxm-5.3.9.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-oxm-5.3.9.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-tx-5.3.9-sources.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-tx-5.3.9-sources.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-jcl-5.3.9-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-jcl-5.3.9-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-jms-5.3.9-sources.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-jms-5.3.9-sources.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-test-5.3.9-sources.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-test-5.3.9-sources.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-web-5.3.9.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-web-5.3.9.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-jcl-5.3.9-sources.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-jcl-5.3.9-sources.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="src/main/webapp/WEB-INF/lib/mysql-connector-j-9.3.0.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/mysql-connector-j-9.3.0.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-webmvc-5.3.9-sources.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-webmvc-5.3.9-sources.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-context-indexer-5.3.9.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-context-indexer-5.3.9.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-aop-5.3.9-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-aop-5.3.9-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-context-5.3.9-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-context-5.3.9-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-expression-5.3.9-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-expression-5.3.9-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-webflux-5.3.9.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-webflux-5.3.9.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-context-indexer-5.3.9-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-context-indexer-5.3.9-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-messaging-5.3.9-sources.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-messaging-5.3.9-sources.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-websocket-5.3.9-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-websocket-5.3.9-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="lib/javax.servlet.jsp.jstl.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/javax.servlet.jsp.jstl.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-context-5.3.9.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-context-5.3.9.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-orm-5.3.9.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-orm-5.3.9.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="lib/javax.servlet.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/javax.servlet.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="lib/javax.servlet.jsp.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/javax.servlet.jsp.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/mysql-connector-j-9.3.0.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/mysql-connector-j-9.3.01.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-messaging-5.3.9.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-messaging-5.3.9.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-core-5.3.9.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-core-5.3.9.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-jdbc-5.3.9.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-jdbc-5.3.9.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-instrument-5.3.9-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-instrument-5.3.9-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-context-support-5.3.9-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-context-support-5.3.9-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-jms-5.3.9.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-jms-5.3.9.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-oxm-5.3.9-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-oxm-5.3.9-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-context-support-5.3.9.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-context-support-5.3.9.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-beans-5.3.9-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-beans-5.3.9-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-orm-5.3.9-sources.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-orm-5.3.9-sources.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-jdbc-5.3.9-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-jdbc-5.3.9-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="lib/javax.persistence.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/javax.persistence.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-aspects-5.3.9-sources.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-aspects-5.3.9-sources.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-context-support-5.3.9-sources.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-context-support-5.3.9-sources.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-jdbc-5.3.9-sources.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-jdbc-5.3.9-sources.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-websocket-5.3.9.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-websocket-5.3.9.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-webflux-5.3.9-sources.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-webflux-5.3.9-sources.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="lib/javax.resource.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/javax.resource.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-jms-5.3.9-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-jms-5.3.9-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-web-5.3.9-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-web-5.3.9-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-webmvc-5.3.9-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-webmvc-5.3.9-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-context-indexer-5.3.9-sources.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-context-indexer-5.3.9-sources.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-orm-5.3.9-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-orm-5.3.9-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-aop-5.3.9-sources.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-aop-5.3.9-sources.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-expression-5.3.9.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-expression-5.3.9.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="lib/javax.jms.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/javax.jms.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-jcl-5.3.9.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-jcl-5.3.9.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-core-5.3.9-sources.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-core-5.3.9-sources.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-webflux-5.3.9-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-webflux-5.3.9-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-instrument-5.3.9-sources.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-instrument-5.3.9-sources.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-messaging-5.3.9-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-messaging-5.3.9-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-test-5.3.9-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-test-5.3.9-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-r2dbc-5.3.9.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-r2dbc-5.3.9.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-beans-5.3.9-sources.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-beans-5.3.9-sources.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-r2dbc-5.3.9-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-r2dbc-5.3.9-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-oxm-5.3.9-sources.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-oxm-5.3.9-sources.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="libs/libs/spring-context-5.3.9-sources.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_10_2025_18_06_[Changes]/spring-context-5.3.9-sources.jar" />
+  </binary>
+</changelist>
