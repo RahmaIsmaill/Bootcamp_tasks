@@ -41,10 +41,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "AgeApp",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/ThrOw/OneDrive - Computer and Information Technology (Menofia University)/Desktop/BootCamp_Tasks",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
@@ -80,6 +80,7 @@
       <updated>1759933893878</updated>
       <workItem from="1759933896749" duration="237000" />
       <workItem from="1759934187822" duration="279000" />
+      <workItem from="1760714812878" duration="34000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
