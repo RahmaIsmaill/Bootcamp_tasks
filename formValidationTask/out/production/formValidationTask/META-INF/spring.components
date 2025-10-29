@@ -1,0 +1,7 @@
+main.com.myApp.config.AppConfig=org.springframework.stereotype.Component
+main.com.myApp.config.DatabaseOperations=org.springframework.stereotype.Component
+main.com.myApp.config.webConfig=org.springframework.stereotype.Component
+main.com.myApp.controller.UserController=org.springframework.stereotype.Component
+main.com.myApp.dao.UserDao=org.springframework.stereotype.Component
+main.com.myApp.model.User=org.springframework.stereotype.Component
+main.com.myApp.service.UserService=org.springframework.stereotype.Component
