@@ -1,0 +1,3 @@
+main.com.myApp.config.webConfig=org.springframework.stereotype.Component
+main.com.myApp.controller.UserController=org.springframework.stereotype.Component
+main.com.myApp.model.User=org.springframework.stereotype.Component
